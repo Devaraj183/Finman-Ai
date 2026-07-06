@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+*.env
+
+# Database
+*.db
+
+# ML Models (optional)
+*.pkl
+
+# Node
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
